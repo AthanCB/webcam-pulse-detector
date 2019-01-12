@@ -1,8 +1,6 @@
-![Alt text](http://i.imgur.com/2ngZopS.jpg "Screenshot")
-
 webcam-pulse-detector
 -----------------------
-
+### FORKED FROM thearn
 ### - UPDATE: Now with Python 3.5+ and OpenCV 3.0+ support
 
 ### Stand-alone (no dependancy) precompiled application:
